@@ -7,4 +7,4 @@ SDAIA T5 Data Science Bootcamp - EDA <br>
 - [Project MVP](https://github.com/renad-albishri/EDA_Project/blob/main/MVP%20for%20DMC%20company%20.md)
 - [Jupyter Notebook](https://github.com/renad-albishri/EDA_Project/blob/main/MTA_Project.ipynb)
 - [Final Report](https://github.com/renad-albishri/EDA_Project/blob/main/Final%20report%20DMC.md)
-- [Slides Presentation](https://github.com/renad-albishri/EDA_Project/blob/main/MTA%20Data%20Analysis%20for%20DMC.pdf)
+- [Slides Presentation](MTA Data Analysis for DMC.pdf)
